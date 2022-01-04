@@ -1,0 +1,63 @@
+#form {
+  margin: 0 auto;
+  width: 55%;
+  margin-top: 2rem;
+  margin-bottom: 6rem;
+}
+#form h3 {
+  font-size: 24px;
+  line-height: 28px;
+  letter-spacing: 0.1em;
+}
+#form #theForm {
+  margin: 0 auto;
+  margin-top: 2rem;
+  width: 80%;
+}
+#form #theForm ::placeholder {
+  color: #D3C08E;
+  padding-left: 1rem;
+}
+#form #theForm #firstname {
+  padding: 0.5rem;
+  border: 1px solid #BCB5B5;
+  box-sizing: border-box;
+  border-radius: 34px;
+  line-height: 21px;
+  letter-spacing: 0.1em;
+  width: 47%;
+  margin-right: 6%;
+}
+#form #theForm #lastname {
+  padding: 0.5rem;
+  border: 1px solid #BCB5B5;
+  box-sizing: border-box;
+  border-radius: 34px;
+  line-height: 21px;
+  letter-spacing: 0.1em;
+  width: 47%;
+}
+#form #theForm #mail {
+  padding: 0.5rem;
+  border: 1px solid #BCB5B5;
+  box-sizing: border-box;
+  border-radius: 34px;
+  line-height: 21px;
+  letter-spacing: 0.1em;
+  width: 60%;
+  margin-right: 40%;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+#form #theForm #message {
+  padding: 0.5rem;
+  border: 1px solid #BCB5B5;
+  box-sizing: border-box;
+  border-radius: 34px;
+  line-height: 21px;
+  letter-spacing: 0.1em;
+  width: 100%;
+  height: 16rem;
+}
+
+/*# sourceMappingURL=Form.css.map */

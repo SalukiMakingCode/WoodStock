@@ -1,0 +1,11 @@
+header {
+  margin:0 auto;
+  width: 93rem;
+  height: 40rem;
+  background-image: linear-gradient(
+                  rgba(0, 0, 0, 0.7),
+                  rgba(0, 0, 0, 0.7)
+  ), url("../assets/img/wood-left.png"), url("../assets/img/wood-right.png")  ;
+  background-repeat: no-repeat, no-repeat;
+  background-position: left, right;
+}

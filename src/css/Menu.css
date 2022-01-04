@@ -1,0 +1,23 @@
+#menu {
+  display: flex;
+  justify-content: flex-end;
+  font-family: Raleway, serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 21px;
+  letter-spacing: 0.1em;
+  color: #FFFFFF;
+}
+#menu li {
+  margin-top: 1rem;
+  list-style-type: none;
+  padding-right: 2rem;
+  padding-left: 6rem;
+}
+#menu li#logoSmall {
+  font-size: 22px;
+  font-weight: 700;
+}
+
+/*# sourceMappingURL=Menu.css.map */

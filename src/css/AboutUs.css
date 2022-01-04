@@ -1,0 +1,40 @@
+.component {
+  margin: 0 auto;
+  width: 70%;
+  margin-top: 5rem;
+  display: flex;
+}
+.component #chair {
+  margin-left: 2rem;
+  margin-top: 4rem;
+  box-shadow: -4rem -2rem 0 0 #BC9A4466;
+}
+.component #aboutUs {
+  margin-left: 10rem;
+  margin-top: 5rem;
+  margin-right: 18rem;
+  font-family: Raleway, serif;
+  color: #827E7E;
+  font-size: 16px;
+}
+.component #aboutUs h2 {
+  font-size: 25px;
+  margin-bottom: 2rem;
+  color: #000000;
+}
+.component #aboutUs h2 #puce {
+  width: 1rem;
+  background-color: #BC9A4466;
+  margin-right: 2rem;
+}
+.component #aboutUs section {
+  margin-top: 10rem;
+}
+.component #aboutUs section span {
+  border: #BC9A44 1px solid;
+  cursor: pointer;
+  padding: 1rem 3rem;
+  color: black;
+}
+
+/*# sourceMappingURL=AboutUs.css.map */
